@@ -40,5 +40,5 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 ![charmander](https://github.com/guirey/guirey/assets/101655014/2258eef2-9e35-45f3-9f58-13651c128bbe)
 
 <p align="center">
-<i>“You miss 100% of the shots you don't take. - Wayne Gretzky - Michael Scott”</i>
+<i>“You miss 100% of the shots you don't take. - Wayne Gretzky” - Michael Scott.</i>
 </p>
