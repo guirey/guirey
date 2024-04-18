@@ -52,7 +52,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 - [ ] Work in a big company \(parentesis fica assim) 
 -->
 
-## To do
+## To do <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" />
 - [x] Create a cool README
 - [x] Be nice
 - [x] Upload some projects here :tada:
@@ -78,6 +78,8 @@ txt1           |  txt2
 ## Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guirey&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guirey&layout=compact&theme=dark)](https://github.com/guirey/github-readme-stats)
+
+<hr/>
 
 ## Skills <img src="https://github.com/guirey/guirey/assets/101655014/b7d0f259-e749-4817-b89d-b2e8a7c7c7e8" alt="Cute Charmander" width="30" height="30"/>
 <!--
@@ -200,6 +202,8 @@ txt1           |  txt2
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966](https://github.com/guirey/guirey/assets/101655014/41b39998-16bb-469e-ad26-ce03470665d7)
 -->
 
+<hr/>
+
 ### Things I like
 * Data Analytics
 * Data Science 😬
@@ -208,7 +212,7 @@ txt1           |  txt2
 * Automation
 
 
-
+<hr/>
 
 
 
