@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/guirey/guirey/assets/101655014/8aafb76b-ec96-488a-9f53-85a2bed98389">
+  <img src="https://github.com/guirey/guirey/assets/101655014/8aafb76b-ec96-488a-9f53-85a2bed98389"> <img src="https://github.com/guirey/guirey/assets/101655014/27076ac2-0b04-47ed-a128-8fcf000f12b2" alt="Coding From Home" width="200" height="250" />
 </p>
 
 
