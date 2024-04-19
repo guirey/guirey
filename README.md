@@ -37,7 +37,7 @@ https://github.com/guirey/guirey/assets/101655014/95dc7bba-1a41-45f4-abe3-912198
   <a href="https://linktr.ee/guilhermerey">
     <img src="https://github.com/guirey/guirey/assets/101655014/cf7000f2-d30c-4c75-b84b-ae9eb69ec56d" width="50" height="50" />
   </a>
-  <a href="https://linkedin.com/guilherme-rey">
+  <a href="https://www.linkedin.com/in/guilherme-rey/">
     <img src="https://github.com/guirey/guirey/assets/101655014/5feb293e-e736-4294-bb6a-9f4f2c887fb1" width="50" height="50" />
   </a>
 </p>
@@ -74,7 +74,7 @@ https://github.com/guirey/guirey/assets/101655014/95dc7bba-1a41-45f4-abe3-912198
 <br/>
 <hr/>
 
-<!--- 
+<!---  
   aqui tabela antiga
 ## Skills <img src="https://github.com/guirey/guirey/assets/101655014/b7d0f259-e749-4817-b89d-b2e8a7c7c7e8" alt="Cute Charmander" width="30" height="30"/>
 
