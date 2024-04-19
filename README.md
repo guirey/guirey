@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img src="https://github.com/guirey/guirey/assets/101655014/8aafb76b-ec96-488a-9f53-85a2bed98389"> <img src="https://github.com/guirey/guirey/assets/101655014/27076ac2-0b04-47ed-a128-8fcf000f12b2" alt="Coding From Home" width="200" height="250" />
+  <img src="https://github.com/guirey/guirey/assets/101655014/8aafb76b-ec96-488a-9f53-85a2bed98389"> 
 </p>
 
 
@@ -49,6 +49,7 @@ https://github.com/guirey/guirey/assets/101655014/95dc7bba-1a41-45f4-abe3-912198
 
 
 ## To do <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" />
+
 - [x] Create a cool README :tada:
 - [x] Be nice
 - [x] Upload some projects here 
@@ -56,7 +57,11 @@ https://github.com/guirey/guirey/assets/101655014/95dc7bba-1a41-45f4-abe3-912198
 
 <hr style="border:0.5px solid green">
 
+
 ## Things I like <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="25" height="25" />
+
+<img align="right" height="250px" width="200px" alt="Coding From Home" src="https://github.com/guirey/guirey/assets/101655014/27076ac2-0b04-47ed-a128-8fcf000f12b2" />
+
 * Data Analytics 📈🔎
 * Data Science ⚛︎
 * Business Inteligence 📊
@@ -64,7 +69,9 @@ https://github.com/guirey/guirey/assets/101655014/95dc7bba-1a41-45f4-abe3-912198
 * Machine Learning 💻
 * Automation 🤖
 * Long-term Learning 🌱
-
+* Football ⚽
+* Games 🎮
+<br/>
 <hr/>
 
 ## Skills <img src="https://github.com/guirey/guirey/assets/101655014/b7d0f259-e749-4817-b89d-b2e8a7c7c7e8" alt="Cute Charmander" width="30" height="30"/>
@@ -98,40 +105,41 @@ https://github.com/guirey/guirey/assets/101655014/95dc7bba-1a41-45f4-abe3-912198
 
 
 
-<!--- aqui --->
-
+<!--- 
+  aqui 
 <img src="https://github.com/guirey/guirey/assets/101655014/28045cdf-2a16-4d19-a87f-6081681aa82b" alt="Nerd Face" width="50" height="50" /> 
+--->
 
-## Skills <img src="https://github.com/guirey/guirey/assets/101655014/b7d0f259-e749-4817-b89d-b2e8a7c7c7e8" alt="Cute Charmander" width="30" height="30"/>
+## Skills <img src="https://github.com/guirey/guirey/assets/101655014/b7d0f259-e749-4817-b89d-b2e8a7c7c7e8" alt="Messi" width="30" height="30"/>
 
 
 | # | <img src="https://github.com/guirey/guirey/assets/101655014/41b39998-16bb-469e-ad26-ce03470665d7" alt="Code Cat" width="30" height="30" /> | Proficiency  |
 | :---:         |     :---:      |          :---: |
-| <img src="https://github.com/guirey/guirey/assets/101655014/28045cdf-2a16-4d19-a87f-6081681aa82b" width="50" height="50" />  | `FPS`     | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />     |
-| <img src="https://github.com/guirey/guirey/assets/101655014/03edd4f4-978f-4506-83e5-221bd7ab9d17" width="50" height="50" />  | `git`       | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />       |
-| <img src="https://github.com/guirey/guirey/assets/101655014/de82531c-af46-406f-a9f2-4cbbf8a36c85" width="50" height="50" />    | `SQL`      | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" />     |
-| <img src="https://github.com/guirey/guirey/assets/101655014/149aba64-476a-499c-a148-13732e03ea11" width="50" height="50" />     | `xlsx`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />       |
-| <img src="https://github.com/guirey/guirey/assets/101655014/6cde4ecb-f110-4938-a8ef-6b59c82498fe" width="50" height="50" />  | `xlsx`      | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />     |
-| <img src="https://github.com/guirey/guirey/assets/101655014/a1477e47-d0f6-46b5-bfa7-2adafaaf9f2d" width="50" height="50" />     |  `docs`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />       |
-| <img src="https://github.com/guirey/guirey/assets/101655014/e6676849-474a-42a4-9f7b-39bc761345d2" width="50" height="50" />      | `LaTeX`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />       |
-| <img src="https://github.com/guirey/guirey/assets/101655014/1f99983f-20ba-48ce-91ff-91b8b95a48c4" width="50" height="50" />      | `C#`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="25" height="25" />       |
-| <img src="https://github.com/guirey/guirey/assets/101655014/1478f233-03d0-4c0a-accf-fe6cd40d27a7" width="50" height="50" />    | `Python`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />      |
-| <img src="https://github.com/guirey/guirey/assets/101655014/fea873ad-d8ef-4012-8608-e112f6611768" width="50" height="50" />     | `doc`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />      |
-| <img src="https://github.com/guirey/guirey/assets/101655014/8bc8c4ee-418f-4ac1-bbce-5243751b794d" width="50" height="50" />    | `C`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />      |
-| <img src="https://github.com/guirey/guirey/assets/101655014/1ffa0607-de23-4647-b9cd-67950d47e714" width="50" height="50" />    | `Kanban`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />      |
-| <img src="https://github.com/guirey/guirey/assets/101655014/9be8c88a-0d9a-4b4c-99a8-1dc4124496fd" width="50" height="50" />   | `cloud`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Baby.png" alt="Baby" width="25" height="25" />      |
-| <img src="https://github.com/guirey/guirey/assets/101655014/16d07e51-f49a-485f-928d-4c4662fba19d" width="50" height="50" /> | `R`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />      |
-| <img src="https://github.com/guirey/guirey/assets/101655014/a0c9e595-518c-4e46-b6d7-0b53536dc237" width="50" height="50" />      | `images`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />      |
-| <img src="https://github.com/guirey/guirey/assets/101655014/e00ff564-22e6-43c4-b5f0-de710bba1be1" width="50" height="50" />    | `images`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />      |
-| <img src="https://github.com/guirey/guirey/assets/101655014/d0233dee-0884-4f93-af80-9cf7094807db" width="50" height="50" />    | `ino`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />      |
-| <img src="https://github.com/guirey/guirey/assets/101655014/76b8a753-a770-4c32-a028-99de395e8897" width="50" height="50" />     | `all`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />      |
-| <img src="https://github.com/guirey/guirey/assets/101655014/c5b40ec3-908c-43c8-8ab7-1a791c871975" width="50" height="50" />    | `ppt`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />      |
-| <img src="https://github.com/guirey/guirey/assets/101655014/c6bcad28-ba15-4318-9cca-39a66f7ef178" width="50" height="50" />     | `py+sql`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />      |
-| <img src="https://github.com/guirey/guirey/assets/101655014/972b6ff2-467e-4903-838a-829ea6bf2864" width="50" height="50" />     | `py`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />      |
-| <img src="https://github.com/guirey/guirey/assets/101655014/3ffef21e-0da3-4393-836a-e7d1a847e570" width="50" height="50" />     | `dash`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />      |
+| <img src="https://github.com/guirey/guirey/assets/101655014/28045cdf-2a16-4d19-a87f-6081681aa82b" width="45" height="40" />  | `FPS`     | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />     |
+| <img src="https://github.com/guirey/guirey/assets/101655014/03edd4f4-978f-4506-83e5-221bd7ab9d17" width="40" height="40" />  | `git`       | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />       |
+| <img src="https://github.com/guirey/guirey/assets/101655014/de82531c-af46-406f-a9f2-4cbbf8a36c85" width="40" height="40" />    | `SQL`      | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" />     |
+| <img src="https://github.com/guirey/guirey/assets/101655014/149aba64-476a-499c-a148-13732e03ea11" width="40" height="40" />     | `xlsx`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />       |
+| <img src="https://github.com/guirey/guirey/assets/101655014/6cde4ecb-f110-4938-a8ef-6b59c82498fe" width="40" height="40" />  | `xlsx`      | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />     |
+| <img src="https://github.com/guirey/guirey/assets/101655014/a1477e47-d0f6-46b5-bfa7-2adafaaf9f2d" width="40" height="40" />     |  `docs`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />       |
+| <img src="https://github.com/guirey/guirey/assets/101655014/e6676849-474a-42a4-9f7b-39bc761345d2" width="40" height="40" />      | `LaTeX`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />       |
+| <img src="https://github.com/guirey/guirey/assets/101655014/1f99983f-20ba-48ce-91ff-91b8b95a48c4" width="40" height="40" />      | `C#`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="25" height="25" />       |
+| <img src="https://github.com/guirey/guirey/assets/101655014/1478f233-03d0-4c0a-accf-fe6cd40d27a7" width="40" height="40" />    | `Python`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />      |
+| <img src="https://github.com/guirey/guirey/assets/101655014/fea873ad-d8ef-4012-8608-e112f6611768" width="40" height="40" />     | `doc`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />      |
+| <img src="https://github.com/guirey/guirey/assets/101655014/8bc8c4ee-418f-4ac1-bbce-5243751b794d" width="40" height="40" />    | `C`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />      |
+| <img src="https://github.com/guirey/guirey/assets/101655014/1ffa0607-de23-4647-b9cd-67950d47e714" width="40" height="40" />    | `Kanban`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />      |
+| <img src="https://github.com/guirey/guirey/assets/101655014/9be8c88a-0d9a-4b4c-99a8-1dc4124496fd" width="40" height="40" />   | `cloud`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Baby.png" alt="Baby" width="25" height="25" />      |
+| <img src="https://github.com/guirey/guirey/assets/101655014/16d07e51-f49a-485f-928d-4c4662fba19d" width="40" height="40" /> | `R`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />      |
+| <img src="https://github.com/guirey/guirey/assets/101655014/a0c9e595-518c-4e46-b6d7-0b53536dc237" width="40" height="40" />      | `images`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />      |
+| <img src="https://github.com/guirey/guirey/assets/101655014/e00ff564-22e6-43c4-b5f0-de710bba1be1" width="40" height="40" />    | `images`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />      |
+| <img src="https://github.com/guirey/guirey/assets/101655014/d0233dee-0884-4f93-af80-9cf7094807db" width="40" height="40" />    | `ino`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />      |
+| <img src="https://github.com/guirey/guirey/assets/101655014/76b8a753-a770-4c32-a028-99de395e8897" width="40" height="40" />     | `all`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />      |
+| <img src="https://github.com/guirey/guirey/assets/101655014/c5b40ec3-908c-43c8-8ab7-1a791c871975" width="40" height="40" />    | `ppt`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />      |
+| <img src="https://github.com/guirey/guirey/assets/101655014/c6bcad28-ba15-4318-9cca-39a66f7ef178" width="40" height="40" />     | `py+sql`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />      |
+| <img src="https://github.com/guirey/guirey/assets/101655014/972b6ff2-467e-4903-838a-829ea6bf2864" width="40" height="40" />     | `py`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />      |
+| <img src="https://github.com/guirey/guirey/assets/101655014/3ffef21e-0da3-4393-836a-e7d1a847e570" width="40" height="40" />     | `dash`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />      |
 | <img src="https://github.com/guirey/guirey/assets/101655014/264004e8-20b8-4741-a337-50a53f18de26" width="40" height="45" />    | `filters`        | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />      |
-| <img src="https://github.com/guirey/guirey/assets/101655014/e4b1c6c6-646d-4637-9263-87b8c41db1a5" width="50" height="50" />    | `SQL`      | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" />     |
-| <img src="https://github.com/guirey/guirey/assets/101655014/46394ab7-ddc5-47c5-bf78-bb685e68e1f0" width="50" height="50" />    | `SQL`      | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" />     |
+| <img src="https://github.com/guirey/guirey/assets/101655014/e4b1c6c6-646d-4637-9263-87b8c41db1a5" width="40" height="40" />    | `SQL`      | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" />     |
+| <img src="https://github.com/guirey/guirey/assets/101655014/46394ab7-ddc5-47c5-bf78-bb685e68e1f0" width="40" height="40" />    | `SQL`      | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" />     |
 
 <!---
 <img src="" width="50" height="50" />
